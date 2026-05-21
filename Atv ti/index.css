@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cookie&family=Crafty+Girls&family=Kablammo&family=Lobster&family=Pinyon+Script&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: "Playwrite GB S", cursive;
+    color: rgb(51, 92, 129);
+}
+
+body {
+    background-image: linear-gradient(to right, #ffffff, #cddcef );
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cookie&family=Crafty+Girls&family=Kablammo&family=Lobster&family=Pinyon+Script&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Quicksand:wght@300..700&display=swap');
+
+p {
+    color: rgb(255, 253, 250);
+    text-align: center;
+    background-color: rgb(160, 197, 255);
+    padding: 30px;
+    margin: 50px auto;
+    width: 1000px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgb(94, 150, 192);
+    font-family: "Quicksand", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cookie&family=Crafty+Girls&family=Kablammo&family=Lobster&family=Pinyon+Script&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Quicksand:wght@300..700&display=swap');
+
+h2 {
+    text-align: center;
+    color: rgb(51, 92, 129);
+    font-family: "Playwrite GB S", cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cookie&family=Crafty+Girls&family=Kablammo&family=Lobster&family=Pinyon+Script&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Quicksand:wght@300..700&display=swap');
+
+
+h3 {
+    text-align: center;
+    color: rgb(21, 58, 93);
+     font-family: "Julius Sans One", sans-serif;
+}
+
+
+.imagem {
+  display: block;
+  margin: 0 auto;
+}
